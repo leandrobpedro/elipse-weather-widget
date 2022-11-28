@@ -1,0 +1,18 @@
+# project files
+*.prj
+!example.prj
+
+# logs
+*.log
+*.txt
+
+# buffer
+*.e3i
+*.e3o
+
+# lock
+*.ldb
+
+# tar
+*.zip
+*.rar
