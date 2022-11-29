@@ -11,7 +11,7 @@
     * **AppID** - Your unique API key (you can always find it on your account page under the ["API key" tab](https://home.openweathermap.org/users/sign_in).
     * **Lang** - Output in your language.
     * **Latitude** - Latitude city geo location.
-    * **Longiude** - Longiude city geo location.
+    * **Longitude** - Longitude city geo location.
     * **RepeatInterval** - API query refresh time (in seconds).
     * **Units** - Temperature unit. 
         - `(I)` Imperial: Fahrenheit.
